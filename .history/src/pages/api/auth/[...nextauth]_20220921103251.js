@@ -10,7 +10,7 @@ export default NextAuth({
     }),
     // ...add more providers here
   ],
-  SECRET: process.env.NEXT_PUBLIC_VERCEL_ENV,
+  SECRET:process.env.NEXT_PUBLIC_SECRET
 
 })
 
