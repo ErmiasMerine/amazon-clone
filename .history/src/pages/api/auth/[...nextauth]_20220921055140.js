@@ -10,8 +10,6 @@ export default NextAuth({
     }),
     // ...add more providers here
   ],
-  SECRET:SECRET
-
 })
 
 //id 418165183030-s32c9btlfss38m0uk9gn0r62njk45v98.apps.googleusercontent.com
