@@ -10,7 +10,6 @@ export default NextAuth({
     }),
     // ...add more providers here
   ],
-  SECRET:SECRET
 
 })
 
